@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.epsilon.drought.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "drought.refmap.json",
+  "mixins": [
+    "MixinServerWorld"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
